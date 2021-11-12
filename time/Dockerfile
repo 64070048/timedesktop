@@ -1,2 +1,2 @@
 FROM nginx
-COPY time /usr/share/nginx/html
+COPY public /usr/share/nginx/html
